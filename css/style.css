@@ -271,6 +271,7 @@ header .top-bar {
 .choose-us .container .choose-us-text h1{
   text-align: center;
   padding: 12px 12px;
+  padding-top: 45px;
 }
 .our-service .container .service-cards
 {
@@ -344,6 +345,7 @@ display: inline-block;
   text-align: center;
   padding: 12px;
   text-transform: capitalize;
+  padding-top: 45px;
 }
 .costomer-reviews p {
 text-align: center;
@@ -712,6 +714,7 @@ footer .footer-bottom {
     .choose-us .container .choose-us-text  {
       margin: 0 auto;
       text-align: center;
+
     }
     .choose-us .container .choose-us-text p {
            width: 97%;
